@@ -169,6 +169,7 @@ Quy tắc này thiết lập hệ thống quản lý toàn diện về an toàn,
 | SOP-04.3 | Tuần tra an ninh | Phát hiện sớm bất thường | 2 giờ/lần |
 | SOP-04.4 | Quản lý khách viếng thăm | Kiểm soát khách ra vào | Khi có khách |
 | SOP-04.5 | Xử lý tình huống bất thường | Phản ứng với sự cố an ninh | Khi có sự cố |
+| SOP-04.6 | Phát vé - Quản lý vé xe và phương tiện | Kiểm soát phương tiện ra vào | Liên tục |
 
 ### 7.5. SOP-05: 5S
 

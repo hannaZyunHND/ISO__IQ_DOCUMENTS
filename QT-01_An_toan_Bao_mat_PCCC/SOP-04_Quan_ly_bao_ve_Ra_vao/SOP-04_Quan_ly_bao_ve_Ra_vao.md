@@ -9,3 +9,4 @@ Quy trình quản lý an ninh, bảo vệ và kiểm soát ra vào
 - SOP-04.3: Tuần tra an ninh
 - SOP-04.4: Quản lý khách viếng thăm
 - SOP-04.5: Xử lý tình huống bất thường
+- SOP-04.6: Phát vé - Quản lý vé xe và phương tiện
