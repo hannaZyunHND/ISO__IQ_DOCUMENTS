@@ -38,7 +38,6 @@
 | **Loại giấy tờ** | **Ghi chú** |
 |---|---|
 | Giấy khai sinh (Bản sao công chứng) | Bắt buộc |
-| Sổ hộ khẩu (Bản sao) | Bắt buộc |
 | Học bạ (Bản gốc - Nếu lớp 2 trở lên) | Bắt buộc |
 | Giấy chứng nhận hoàn thành (MN, TH) | Nếu có |
 | Phiếu sức khỏe (Trong 6 tháng) | Bắt buộc |
@@ -120,7 +119,6 @@ E. KHÁC:
 **Bước 4: Upload giấy tờ (Scan - PDF)**
 
 - Giấy khai sinh
-- Sổ hộ khẩu
 - Học bạ (Nếu có)
 - Phiếu sức khỏe
 
