@@ -29,25 +29,25 @@ Tất cả học sinh, Tất cả thông tin thay đổi
 ╔══════════════════════════════════════════════════════════════════╗
 ║           4 LOẠI THÔNG TIN THEO TẦN SUẤT THAY ĐỔI                ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ 1. THÔNG TIN TĨNH (Static - Ít thay đổi)                        ║
+║ 1. THÔNG TIN TĨNH (Static - Ít thay đổi)                         ║
 ║    • Họ tên, Ngày sinh, Giới tính...                             ║
-║    • Giấy khai sinh, Sổ hộ khẩu...                               ║
-║    • Tần suất thay đổi: Hiếm (1-2 lần/toàn bộ quá trình học)    ║
+║    • Giấy khai sinh                                              ║
+║    • Tần suất thay đổi: Hiếm (1-2 lần/toàn bộ quá trình học)     ║
 ║    • Cập nhật: Khi PH yêu cầu (Có giấy tờ chứng minh)            ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ 2. THÔNG TIN ĐỘNG CHẬM (Slow-changing)                          ║
+║ 2. THÔNG TIN ĐỘNG CHẬM (Slow-changing)                           ║
 ║    • Địa chỉ, SĐT PH, Email...                                   ║
 ║    • Nghề nghiệp PH                                              ║
 ║    • Tần suất: Thỉnh thoảng (VD: Chuyển nhà, Đổi số...)          ║
 ║    • Cập nhật: Khi PH báo (Qua Sổ liên lạc, Email...)            ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ 3. THÔNG TIN ĐỘNG NHANH (Fast-changing)                         ║
+║ 3. THÔNG TIN ĐỘNG NHANH (Fast-changing)                          ║
 ║    • Lớp (Mỗi năm đổi), GVCN                                     ║
 ║    • Chiều cao, Cân nặng (Mỗi năm khám)                          ║
 ║    • Tần suất: Thường xuyên                                      ║
 ║    • Cập nhật: Đầu năm học, Sau khám SK...                       ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ 4. THÔNG TIN LIÊN TỤC (Continuous)                              ║
+║ 4. THÔNG TIN LIÊN TỤC (Continuous)                               ║
 ║    • Điểm số (Mỗi bài kiểm tra, Mỗi HK)                          ║
 ║    • Nhận xét GVCN (Mỗi HK, Mỗi tháng...)                        ║
 ║    • Điểm danh (Mỗi ngày!)                                       ║

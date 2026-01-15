@@ -30,40 +30,40 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║           8 NGUYÊN TẮC VÀNG PHÂN LỚP                          ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ 1. CÂN BẰNG HỌC LỰC                                          ║
-║    • Mỗi lớp có: 20-25% Giỏi, 30-35% Khá,                    ║
+║ 1. CÂN BẰNG HỌC LỰC                                           ║
+║    • Mỗi lớp có: 20-25% Giỏi, 30-35% Khá,                     ║
 ║      30-35% TB, 10-15% Yếu                                    ║
-║    • Điểm TB các lớp chênh lệch < 0.3                        ║
+║    • Điểm TB các lớp chênh lệch < 0.3                         ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ 2. CÂN BẰNG GIỚI TÍNH                                        ║
-║    • Nam/Nữ mỗi lớp: 45-55%                                  ║
-║    • Tránh lớp quá lệch (VD: 70% Nam)                        ║
+║ 2. CÂN BẰNG GIỚI TÍNH                                         ║
+║    • Nam/Nữ mỗi lớp: 45-55%                                   ║
+║    • Tránh lớp quá lệch (VD: 70% Nam)                         ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ 3. TÁCH ANH/CHỊ EM                                           ║
-║    • Không cho anh/chị em cùng lớp                           ║
-║    • Lý do: Tránh so sánh, Tạo độc lập                       ║
-║    • Trừ khi: PH yêu cầu (Lý do đặc biệt)                    ║
+║ 3. TÁCH ANH/CHỊ EM                                            ║
+║    • Không cho anh/chị em cùng lớp                            ║
+║    • Lý do: Tránh so sánh, Tạo độc lập                        ║
+║    • Trừ khi: PH yêu cầu (Lý do đặc biệt)                     ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ 4. PHÙ HỢP TÍNH CÁCH                                         ║
-║    • HS hiếu động → Lớp GV nghiêm, Kinh nghiệm               ║
-║    • HS nhút nhát → Lớp GV nhiệt tình, Vui vẻ                ║
-║    • HS đặc biệt (Khuyết tật) → Lớp GV được đào tạo          ║
+║ 4. PHÙ HỢP TÍNH CÁCH                                          ║
+║    • HS hiếu động → Lớp GV nghiêm, Kinh nghiệm                ║
+║    • HS nhút nhát → Lớp GV nhiệt tình, Vui vẻ                 ║
+║    • HS đặc biệt (Khuyết tật) → Lớp GV được đào tạo           ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ 5. TÁCH NHÓM HIẾU ĐỘNG                                       ║
-║    • HS "Khó bảo" → Chia đều các lớp                         ║
-║    • Tránh: 3-4 HS hiếu động cùng lớp → Khó kiểm soát!       ║
+║ 5. TÁCH NHÓM HIẾU ĐỘNG                                        ║
+║    • HS "Khó bảo" → Chia đều các lớp                          ║
+║    • Tránh: 3-4 HS hiếu động cùng lớp → Khó kiểm soát!        ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ 6. CÂN BẰNG HS ĐẶC BIỆT                                      ║
-║    • HS khuyết tật, Chậm phát triển: ≤2 HS/lớp               ║
-║    • HS giỏi đặc biệt (IQ cao): Phân đều                     ║
+║ 6. CÂN BẰNG HS ĐẶC BIỆT                                       ║
+║    • HS khuyết tật, Chậm phát triển: ≤2 HS/lớp                ║
+║    • HS giỏi đặc biệt (IQ cao): Phân đều                      ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ 7. XEM XÉT YÊU CẦU PH                                        ║
-║    • PH muốn con học với bạn X: Xem xét nếu hợp lý           ║
-║    • PH muốn GV Y: KHÔNG chấp nhận (Không công bằng)         ║
+║ 7. XEM XÉT YÊU CẦU PH                                         ║
+║    • PH muốn con học với bạn X: Xem xét nếu hợp lý            ║
+║    • PH muốn GV Y: KHÔNG chấp nhận (Không công bằng)          ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ 8. SỈ SỐ BẰNG NHAU                                           ║
-║    • Mỗi lớp: 20-25 HS (TH), 28-32 HS (THCS)                 ║
-║    • Chênh lệch giữa các lớp: ≤2 HS                          ║
+║ 8. SỈ SỐ BẰNG NHAU                                            ║
+║    • Mỗi lớp: 20-25 HS (TH), 28-32 HS (THCS)                  ║
+║    • Chênh lệch giữa các lớp: ≤2 HS                           ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 

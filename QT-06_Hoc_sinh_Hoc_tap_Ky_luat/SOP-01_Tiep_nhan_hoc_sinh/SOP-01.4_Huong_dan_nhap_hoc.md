@@ -35,14 +35,14 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║              CHƯƠNG TRÌNH ORIENTATION                         ║
 ╠═══════════════════════════════════════════════════════════════╣
-║ THỜI GIAN: 1 buổi sáng (09:00 - 11:30)                       ║
-║ ĐỐI TƯỢNG: HS mới + PH (Bắt buộc)                            ║
-║ ĐỊA ĐIỂM: Hội trường + Lớp học + Campus                      ║
+║ THỜI GIAN: 1 buổi sáng (09:00 - 11:30)                        ║
+║ ĐỐI TƯỢNG: HS mới + PH (Bắt buộc)                             ║
+║ ĐỊA ĐIỂM: Hội trường + Lớp học + Campus                       ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║ MỤC TIÊU:                                                     ║
-║  • HS làm quen: Trường, GVCN, Bạn, Quy định                  ║
-║  • PH hiểu: Cách trường vận hành, Liên hệ khi cần            ║
-║  • Phát: Thẻ, Sổ liên lạc, Sách (Nếu có)                    ║
+║  • HS làm quen: Trường, GVCN, Bạn, Quy định                   ║
+║  • PH hiểu: Cách trường vận hành, Liên hệ khi cần             ║
+║  • Phát: Thẻ, Sổ liên lạc, Sách (Nếu có)                      ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
