@@ -29,12 +29,11 @@ Tất cả học sinh mới được nhận vào trường
 
 ```
 ┌─────────────────────────────────────────┐
-│ PHẦN A: GIẤY TỜ CÁ NHÂN (Vĩnh viễn)    │
-│ • Giấy khai sinh                        │
-│ • Sổ hộ khẩu                            │
+│ PHẦN A: GIẤY TỜ CÁ NHÂN (Vĩnh viễn)     │
+│ • Giấy khai sinh                        │                         
 │ • Học bạ                                │
 │ • Giấy chuyển trường (Nếu có)           │
-│ → Lưu: Tủ hồ sơ (Giấy) + Scan (Số)     │
+│ → Lưu: Tủ hồ sơ (Giấy) + Scan (Số)      │
 └─────────────────────────────────────────┘
            ↓
 ┌─────────────────────────────────────────┐
@@ -64,20 +63,19 @@ Tất cả học sinh mới được nhận vào trường
 | **STT** | **Giấy tờ** | **Bắt buộc?** | **Ghi chú** |
 |---|---|---|---|
 | 1 | Giấy khai sinh | ✅ Có | Bản gốc hoặc Bản sao công chứng |
-| 2 | Sổ hộ khẩu | ✅ Có | Bản sao (Có HS trong sổ) |
-| 3 | Học bạ | ✅ Có (Lớp 2+) | Bản gốc (Trường giữ) |
-| 4 | Giấy chứng nhận hoàn thành | ✅ Có (Lên cấp) | VD: Hoàn thành TH → Vào lớp 6 |
-| 5 | Giấy chuyển trường | Nếu chuyển | Từ trường cũ |
-| 6 | Phiếu sức khỏe | ✅ Có | Trong 6 tháng, Có dấu BV/Phòng khám |
-| 7 | Sổ tiêm chủng | ✅ Có (MN, Lớp 1) | Đủ mũi theo tuổi |
-| 8 | Ảnh 3×4 | ✅ Có | 6 ảnh (Phông nền trắng/Xanh) |
-| 9 | Ảnh gia đình | Khuyến khích | 1 ảnh (Để GVCN biết PH) |
-| 10 | Đơn xin học | ✅ Có | PH viết tay hoặc Đánh máy |
-| 11 | Hợp đồng | ✅ Có | Ký với trường (2 bản) |
-| 12 | Cam kết PH | ✅ Có | Cam kết hợp tác với trường |
-| 13 | Biên nhận đóng phí | ✅ Có | Phí đầu vào + Tháng 1 |
-| 14 | Phiếu đăng ký dịch vụ | Tùy chọn | Ăn, Xe, Học thêm... |
-| 15 | Thông tin liên hệ khẩn cấp | ✅ Có | Người liên hệ khi PH không có mặt |
+| 2 | Học bạ | ✅ Có (Lớp 2+) | Bản gốc (Trường giữ) |
+| 3 | Giấy chứng nhận hoàn thành | ✅ Có (Lên cấp) | VD: Hoàn thành TH → Vào lớp 6 |
+| 4 | Giấy chuyển trường | Nếu chuyển | Từ trường cũ |
+| 5 | Phiếu sức khỏe | ✅ Có | Trong 6 tháng, Có dấu BV/Phòng khám |
+| 6 | Sổ tiêm chủng | ✅ Có (MN, Lớp 1) | Đủ mũi theo tuổi |
+| 7 | Ảnh 3×4 | ✅ Có | 6 ảnh (Phông nền trắng/Xanh) |
+| 8 | Ảnh gia đình | Khuyến khích | 1 ảnh (Để GVCN biết PH) |
+| 9 | Đơn xin học | ✅ Có | PH viết tay hoặc Đánh máy |
+| 10| Hợp đồng | ✅ Có | Ký với trường (2 bản) |
+| 11| Cam kết PH | ✅ Có | Cam kết hợp tác với trường |
+| 12| Biên nhận đóng phí | ✅ Có | Phí đầu vào + Tháng 1 |
+| 13| Phiếu đăng ký dịch vụ | Tùy chọn | Ăn, Xe, Học thêm... |
+| 14| Thông tin liên hệ khẩn cấp | ✅ Có | Người liên hệ khi PH không có mặt |
 
 **PHẦN B: HỒ SƠ HỌC TẬP (Tạo sau - Cập nhật suốt quá trình học)**
 
@@ -119,12 +117,7 @@ Lưu riêng tại Phòng Y tế
 
 **Nếu chỉ có bản PHOTO thường → Yêu cầu PH về lấy bản công chứng!**
 
-**B. Sổ hộ khẩu:**
-- [ ] Có tên HS trong sổ?
-- [ ] Địa chỉ rõ ràng?
-- [ ] Quan hệ với chủ hộ? (Con, Cháu...)
-
-**C. Học bạ (Lớp 2 trở lên):**
+**B. Học bạ (Lớp 2 trở lên):**
 - [ ] Bản gốc? (KHÔNG nhận bản photo!)
 - [ ] Có dấu trường cũ?
 - [ ] Điểm số rõ ràng?
@@ -132,17 +125,17 @@ Lưu riêng tại Phòng Y tế
 
 **Lưu ý:** Học bạ GỐC trường GIỮ LẠI (Cho đến khi HS tốt nghiệp/Chuyển đi)
 
-**D. Phiếu sức khỏe:**
+**C. Phiếu sức khỏe:**
 - [ ] Trong 6 tháng?
 - [ ] Có dấu BV/Phòng khám?
 - [ ] Kết luận: "Đủ sức khỏe học tập"?
 - [ ] Ghi rõ dị ứng, Bệnh mãn tính (Nếu có)?
 
-**E. Sổ tiêm chủng (MN, Lớp 1):**
+**D. Sổ tiêm chủng (MN, Lớp 1):**
 - [ ] Đủ mũi theo lịch?
 - [ ] Còn thiếu mũi nào? (Nhắc PH tiêm bù)
 
-**F. Ảnh:**
+**E. Ảnh:**
 - [ ] Đủ 6 ảnh 3×4?
 - [ ] Phông nền trắng/xanh (Không màu lòe loẹt)?
 - [ ] Rõ mặt?
@@ -284,16 +277,15 @@ V. DỊCH VỤ ĐĂNG KÝ:
 3. Hợp đồng (Bản trường giữ)
 4. Cam kết PH
 5. Giấy khai sinh (Bản sao công chứng)
-6. Sổ hộ khẩu (Bản sao)
-7. Học bạ (Bản gốc - Nếu lớp 2+)
-8. Giấy chứng nhận hoàn thành (Nếu có)
-9. Giấy chuyển trường (Nếu có)
-10. Phiếu sức khỏe
-11. Sổ tiêm chủng (Bản sao)
-12. Biên nhận đóng phí
-13. Phiếu đăng ký dịch vụ
-14. Ảnh (5 ảnh còn lại - 1 ảnh đã dán bìa)
-15. Thông tin liên hệ khẩn cấp
+6. Học bạ (Bản gốc - Nếu lớp 2+)
+7. Giấy chứng nhận hoàn thành (Nếu có)
+8. Giấy chuyển trường (Nếu có)
+9. Phiếu sức khỏe
+10. Sổ tiêm chủng (Bản sao)
+11. Biên nhận đóng phí
+12. Phiếu đăng ký dịch vụ
+13. Ảnh (5 ảnh còn lại - 1 ảnh đã dán bìa)
+14. Thông tin liên hệ khẩn cấp
 ```
 
 **Bước 13: Bỏ vào bìa, Đóng dấu "Đã kiểm tra ngày __/__"**
