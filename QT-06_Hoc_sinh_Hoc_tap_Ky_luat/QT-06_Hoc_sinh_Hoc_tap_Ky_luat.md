@@ -33,7 +33,7 @@ Quy tắc này nhằm:
 
 | **Loại** | **Tài liệu** |
 |---|---|
-| **Pháp luật** | • Luật Giáo dục 2019<br>• Thông tư 32/2020/TT-BGDĐT (Quy chế Tiểu học)<br>• Thông tư 12/2011/TT-BGDĐT (Quy chế THCS)<br>• Luật Trẻ em 2016 |
+| **Pháp luật** | • Luật Giáo dục 2019<br>• Thông tư 28/2020/TT-BGDĐT (Quy chế Tiểu học)<br>• Thông tư 32/2011/TT-BGDĐT (Quy chế THCS)<br>• Thông tư 52/2020/TT-BGDĐT (Quy chế Mầm Non)<br>• Luật Trẻ em 2016 |
 | **Tiêu chuẩn** | • ISO 9001:2015<br>• Chuẩn phát triển HS (Theo cấp) |
 | **Nội bộ** | • QT-05: Giảng dạy - Học liệu<br>• QT-01: An toàn - PCCC |
 

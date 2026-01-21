@@ -27,15 +27,7 @@
 | **3** | Ngày sinh khớp | ☐ | ☐ |  |
 | **4** | Còn nguyên vẹn (Không rách, Không phai mờ) | ☐ | ☐ |  |
 
-### B. SỔ HỘ KHẨU
-
-| **STT** | **Tiêu chí** | **Đạt** | **Không đạt** | **Ghi chú** |
-|---|---|---|---|---|
-| **5** | Có tên HS trong sổ | ☐ | ☐ |  |
-| **6** | Địa chỉ rõ ràng | ☐ | ☐ |  |
-| **7** | Quan hệ với chủ hộ (Con, Cháu...) | ☐ | ☐ |  |
-
-### C. HỌC BẠ (LỚP 2+)
+### B. HỌC BẠ (LỚP 2+)
 
 | **STT** | **Tiêu chí** | **Đạt** | **Không đạt** | **Ghi chú** |
 |---|---|---|---|---|
@@ -44,7 +36,7 @@
 | **10** | Điểm số rõ ràng | ☐ | ☐ |  |
 | **11** | Xếp loại HK cuối: Giỏi/Khá/TB/Yếu | ☐ | ☐ |  |
 
-### D. PHIẾU SỨC KHỎE
+### C. PHIẾU SỨC KHỎE
 
 | **STT** | **Tiêu chí** | **Đạt** | **Không đạt** | **Ghi chú** |
 |---|---|---|---|---|

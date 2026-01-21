@@ -32,9 +32,9 @@ Quy trình này thiết lập hệ thống đào tạo, huấn luyện PCCC toà
 |---|---|---|---|
 | **Ban Giám hiệu** | Quản lý an toàn, ra quyết định khẩn cấp | Nâng cao | Hàng năm |
 | **Trưởng phòng An toàn** | Chuyên sâu PCCC, huấn luyện viên | Chuyên nghiệp | 6 tháng/lần |
-| **Giáo viên** | Sơ tán học sinh, sử dụng bình chữa cháy | Cơ bản + | Hàng năm |
+| **Giáo viên** | Sơ tán học sinh, sử dụng bình chữa cháy | Cơ bản | Hàng năm |
 | **Nhân viên bảo vệ** | Phát hiện cháy, báo động, hỗ trợ dập cháy | Trung cấp | 6 tháng/lần |
-| **Nhân viên bếp** | Phòng cháy bếp, xử lý cháy dầu mỡ | Chuyên môn | 6 tháng/lần |
+| **Nhân viên bếp** | Phòng cháy bếp, xử lý cháy dầu mỡ | Chuyên Nghiệp | 6 tháng/lần |
 | **Nhân viên kỹ thuật** | Bảo trì thiết bị, xử lý sự cố kỹ thuật | Trung cấp | 6 tháng/lần |
 | **Nhân viên hành chính** | Kiến thức cơ bản, thoát hiểm | Cơ bản | Hàng năm |
 | **Học sinh** | Nhận biết nguy hiểm, thoát hiểm an toàn | Phổ thông | Hàng năm |
@@ -223,7 +223,7 @@ Lập kế hoạch chi tiết bao gồm:
 
 - Cấp Chứng chỉ huấn luyện PCCC (Form QT01-CC01)
 - Thông tin: Họ tên, ngày đào tạo, cấp độ, ngày hết hạn
-- Chứng chỉ có giá trị 2 năm
+- Chứng chỉ có giá trị 5 năm
 - Lưu danh sách học viên vào Sổ đào tạo PCCC
 - Lưu bài kiểm tra, ảnh thực hành
 - Cập nhật hồ sơ cá nhân nhân viên

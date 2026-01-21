@@ -21,12 +21,11 @@
 | **STT** | **Giấy tờ** | **Bắt buộc** | **Có** | **Ghi chú** |
 |---|---|---|---|---|
 | **1** | Giấy khai sinh (Bản sao công chứng) | ✅ | ☐ |  |
-| **2** | Sổ hộ khẩu (Bản sao) | ✅ | ☐ |  |
-| **3** | Học bạ (Bản gốc - Nếu lớp 2+) | ✅ | ☐ |  |
-| **4** | Giấy chứng nhận hoàn thành (MN, TH) | Nếu có | ☐ |  |
-| **5** | Phiếu sức khỏe (Trong 6 tháng) | ✅ | ☐ |  |
-| **6** | Ảnh 3×4 (6 ảnh) | ✅ | ☐ |  |
-| **7** | Giấy xác nhận chuyển trường (Nếu chuyển) | Nếu chuyển | ☐ |  |
+| **2** | Học bạ (Bản gốc - Nếu lớp 2+) | ✅ | ☐ |  |
+| **3** | Giấy chứng nhận hoàn thành (MN, TH) | Nếu có | ☐ |  |
+| **4** | Phiếu sức khỏe (Trong 6 tháng) | ✅ | ☐ |  |
+| **5** | Ảnh 3×4 (6 ảnh) | ✅ | ☐ |  |
+| **6** | Giấy xác nhận chuyển trường (Nếu chuyển) | Nếu chuyển | ☐ |  |
 
 ## KIỂM TRA CHẤT LƯỢNG
 

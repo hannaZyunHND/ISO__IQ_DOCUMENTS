@@ -6,7 +6,7 @@
 |---|---|
 | Mã SOP | SOP-06.1 |
 | Tên | Diễn tập phòng cháy chữa cháy |
-| Tần suất | 6 tháng/lần (Bắt buộc theo luật) |
+| Tần suất | 1 năm/lần (Bắt buộc theo luật) |
 | Thời gian | 2-3 giờ |
 
 ## 2. MỤC ĐÍCH

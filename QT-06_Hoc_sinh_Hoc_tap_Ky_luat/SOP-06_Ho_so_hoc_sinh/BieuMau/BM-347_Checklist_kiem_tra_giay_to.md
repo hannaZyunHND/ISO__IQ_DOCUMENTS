@@ -40,16 +40,15 @@ KIỂM TRA NGÀY: __/__/____
 │ 3  │ Hợp đồng (Bản trường giữ)       │ □   │          │
 │ 4  │ Cam kết PH                      │ □   │          │
 │ 5  │ Giấy khai sinh (Bản sao CC)     │ □   │          │
-│ 6  │ Sổ hộ khẩu (Bản sao)            │ □   │          │
-│ 7  │ Học bạ (Bản gốc - Nếu lớp 2+)   │ □   │          │
-│ 8  │ Giấy CN hoàn thành (Lên cấp)    │ □   │          │
-│ 9  │ Giấy chuyển trường (Nếu có)     │ □   │          │
-│ 10 │ Phiếu sức khỏe                  │ □   │          │
-│ 11 │ Sổ tiêm chủng (Bản sao)         │ □   │          │
-│ 12 │ Biên nhận đóng phí              │ □   │          │
-│ 13 │ Phiếu đăng ký dịch vụ           │ □   │          │
-│ 14 │ Ảnh 3×4 (5 ảnh còn lại)         │ □   │          │
-│ 15 │ Thông tin liên hệ khẩn cấp      │ □   │          │
+│ 6  │ Học bạ (Bản gốc - Nếu lớp 2+)   │ □   │          │
+│ 7  │ Giấy CN hoàn thành (Lên cấp)    │ □   │          │
+│ 8  │ Giấy chuyển trường (Nếu có)     │ □   │          │
+│ 9  │ Phiếu sức khỏe                  │ □   │          │
+│ 10 │ Sổ tiêm chủng (Bản sao)         │ □   │          │
+│ 11 │ Biên nhận đóng phí              │ □   │          │
+│ 12 │ Phiếu đăng ký dịch vụ           │ □   │          │
+│ 13 │ Ảnh 3×4 (5 ảnh còn lại)         │ □   │          │
+│ 14 │ Thông tin liên hệ khẩn cấp      │ □   │          │
 └────┴─────────────────────────────────┴─────┴──────────┘
 
 TỔNG SỐ: ____/15 giấy tờ ✅

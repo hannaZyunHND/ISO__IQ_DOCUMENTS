@@ -30,25 +30,25 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                 MÔ HÌNH THÍCH NGHI 4 TUẦN                        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ TUẦN 1: LO LẮ CỰC ĐỘ (Crisis Week)                          ║
-║  • HS: Lo lắng, Khóc, Nhớ trường cũ/PH, Không ăn            ║
-║  • GV: Quan tâm 200%, Ôm, An ủi, Không mắng                 ║
-║  • PH: Có thể ở lại lớp 1-2 tiết (Nếu HS quá lo lắng)      ║
+║ TUẦN 1: LO LẮ CỰC ĐỘ (Crisis Week)                               ║
+║  • HS: Lo lắng, Khóc, Nhớ trường cũ/PH, Không ăn                 ║
+║  • GV: Quan tâm 200%, Ôm, An ủi, Không mắng                      ║
+║  • PH: Có thể ở lại lớp 1-2 tiết (Nếu HS quá lo lắng)            ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ TUẦN 2: BẮT ĐẦU QUEN (Adjustment Week)                       ║
-║  • HS: Bớt lo lắng, Nhưng còn nhút, Chưa tự tin             ║
-║  • GV: Khuyến khích tham gia, Khen ngợi nhiều               ║
-║  • PH: Không cần ở lại, Nhưng đón đúng giờ                  ║
+║ TUẦN 2: BẮT ĐẦU QUEN (Adjustment Week)                           ║
+║  • HS: Bớt lo lắng, Nhưng còn nhút, Chưa tự tin                  ║
+║  • GV: Khuyến khích tham gia, Khen ngợi nhiều                    ║
+║  • PH: Không cần ở lại, Nhưng đón đúng giờ                       ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ TUẦN 3: QUEN HƠN (Integration Week)                         ║
-║  • HS: Quen hơn, Chơi với 1-2 bạn, Tham gia hoạt động       ║
-║  • GV: Tạo cơ hội kết bạn, Ghép nhóm                        ║
-║  • PH: Bắt đầu yên tâm                                      ║
+║ TUẦN 3: QUEN HƠN (Integration Week)                              ║
+║  • HS: Quen hơn, Chơi với 1-2 bạn, Tham gia hoạt động            ║
+║  • GV: Tạo cơ hội kết bạn, Ghép nhóm                             ║
+║  • PH: Bắt đầu yên tâm                                           ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ TUẦN 4: THÍCH NGHI TỐT (Settled Week)                       ║
-║  • HS: 80% HS thích nghi tốt, Vui vẻ, Tự tin               ║
-║  • GV: Theo dõi 20% chưa thích nghi, Can thiệp              ║
-║  • PH: Hài lòng, Tin tưởng trường                           ║
+║ TUẦN 4: THÍCH NGHI TỐT (Settled Week)                            ║
+║  • HS: 80% HS thích nghi tốt, Vui vẻ, Tự tin                     ║
+║  • GV: Theo dõi 20% chưa thích nghi, Can thiệp                   ║
+║  • PH: Hài lòng, Tin tưởng trường                                ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 

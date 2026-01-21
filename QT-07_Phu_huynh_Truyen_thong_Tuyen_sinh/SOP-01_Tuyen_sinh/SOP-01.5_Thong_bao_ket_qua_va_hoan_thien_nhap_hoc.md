@@ -105,7 +105,6 @@ Quý vị vui lòng đến trường hoàn thiện hồ sơ:
 MANG THEO:
 □ CMND/CCCD (PH)
 □ Giấy khai sinh (Bản gốc + 1 bản sao)
-□ Sổ hộ khẩu (Bản sao)
 □ Học bạ Mầm non (Nếu có)
 □ Phiếu sức khỏe (<6 tháng)
 □ Sổ tiêm chủng
@@ -271,9 +270,8 @@ TÔI CAM KẾT:
 **Bước 2: NV tiếp đón, Kiểm tra giấy tờ (30 phút)**
 
 ```
-Checklist 15 giấy tờ (QT06-CL02):
+Checklist 14 giấy tờ (QT06-CL02):
 □ Giấy khai sinh
-□ Sổ hộ khẩu
 □ ... (Xem QT-06)
 
 Nếu đủ ✅ → Tiếp tục
