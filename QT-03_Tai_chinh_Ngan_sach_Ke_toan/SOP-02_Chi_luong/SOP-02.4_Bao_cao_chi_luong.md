@@ -1,4 +1,5 @@
-# SOP-02.4: BÁO CÁO CHI LƯƠNG
+
+SOP-02.4: BÁO CÁO CHI LƯƠNG
 
 ## 1. THÔNG TIN | Mã: SOP-02.4 | Tần suất: Hàng tháng
 
@@ -176,7 +177,6 @@ A: Cung cấp nếu được yêu cầu. Nhưng phải bảo mật, không công
 **Q: Báo cáo có cần gửi Sở Giáo dục không?**  
 A: Không bắt buộc. Chỉ gửi nếu Sở yêu cầu (trường tư thục).
 
----
 **PHÊ DUYỆT** | KT lương | KT trưởng | Phó HT |
 
 ---

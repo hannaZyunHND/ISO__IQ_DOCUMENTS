@@ -181,7 +181,6 @@ A: Không. Đây là phí một lần, không hoàn lại.
 **Q: Bao lâu nhận được tiền?**  
 A: Trong vòng 30 ngày kể từ khi BGH phê duyệt.
 
----
 **PHÊ DUYỆT** | Trưởng KT | Phó HT | HT |
 
 ---
