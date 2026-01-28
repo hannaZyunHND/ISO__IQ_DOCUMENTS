@@ -10,40 +10,40 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    [LOGO TRƯỜNG]                           │
+│                    [LOGO TRƯỜNG]                            │
 │                                                             │
-│                 CHỨNG CHỈ HUẤN LUYỆN                      │
-│                PHÒNG CHÁY CHỮA CHÁY                       │
+│                 CHỨNG CHỈ HUẤN LUYỆN                        │
+│                PHÒNG CHÁY CHỮA CHÁY                         │
 │                                                             │
-│  Chứng nhận: [Họ và tên học viên]                         │
-│  Chức vụ: [Chức vụ trong trường]                          │
-│  Phòng ban: [Tên phòng ban]                               │
+│  Chứng nhận: [Họ và tên học viên]                           │
+│  Chức vụ: [Chức vụ trong trường]                            │
+│  Phòng ban: [Tên phòng ban]                                 │
 │                                                             │
-│  Đã hoàn thành chương trình huấn luyện                    │
-│  Phòng cháy chữa cháy                                     │
-│  Cấp độ: [Cơ bản/Trung cấp/Nâng cao/Chuyên nghiệp]       │
+│  Đã hoàn thành chương trình huấn luyện                      │
+│  Phòng cháy chữa cháy                                       │
+│  Cấp độ: [Cơ bản/Trung cấp/Nâng cao/Chuyên nghiệp]          │
 │                                                             │
-│  Thời gian đào tạo: [Ngày bắt đầu] - [Ngày kết thúc]     │
-│  Số giờ đào tạo: [Số giờ] giờ                             │
-│  Địa điểm: [Tên trường, địa chỉ]                          │
+│  Thời gian đào tạo: [Ngày bắt đầu] - [Ngày kết thúc]        │
+│  Số giờ đào tạo: [Số giờ] giờ                               │
+│  Địa điểm: [Tên trường, địa chỉ]                            │
 │                                                             │
-│  Kết quả đánh giá:                                         │
-│  - Lý thuyết: [Điểm]/100 điểm                             │
-│  - Thực hành: [Điểm]/100 điểm                             │
-│  - Tổng điểm: [Điểm]/100 điểm                             │
-│  - Xếp loại: [Xuất sắc/Khá/Trung bình]                    │
+│  Kết quả đánh giá:                                          │
+│  - Lý thuyết: [Điểm]/100 điểm                               │
+│  - Thực hành: [Điểm]/100 điểm                               │
+│  - Tổng điểm: [Điểm]/100 điểm                               │
+│  - Xếp loại: [Xuất sắc/Khá/Trung bình]                      │
 │                                                             │
-│  Chứng chỉ có giá trị từ: [Ngày cấp]                      │
-│  Đến ngày: [Ngày hết hạn] (2 năm)                         │
+│  Chứng chỉ có giá trị từ: [Ngày cấp]                        │
+│  Đến ngày: [Ngày hết hạn] (2 năm)                           │
 │                                                             │
-│  Số chứng chỉ: QT01-CC01-[Số thứ tự]/20[XX]               │
+│  Số chứng chỉ: QT01-CC01-[Số thứ tự]/20[XX]                 │
 │                                                             │
-│  [Chữ ký Giảng viên]        [Chữ ký Hiệu trưởng]          │
-│  [Tên Giảng viên]           [Tên Hiệu trưởng]             │
-│  [Chức vụ]                  [Chức vụ]                     │
-│  [Ngày cấp]                 [Ngày cấp]                    │
+│  [Chữ ký Giảng viên]        [Chữ ký Hiệu trưởng]            │
+│  [Tên Giảng viên]           [Tên Hiệu trưởng]               │
+│  [Chức vụ]                  [Chức vụ]                       │
+│  [Ngày cấp]                 [Ngày cấp]                      │
 │                                                             │
-│  [Con dấu trường]                                         │
+│  [Con dấu trường]                                           │
 └─────────────────────────────────────────────────────────────┘
 ```
 
