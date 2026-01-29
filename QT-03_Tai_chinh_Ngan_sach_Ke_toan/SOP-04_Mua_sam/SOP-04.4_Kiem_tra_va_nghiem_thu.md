@@ -164,7 +164,6 @@ graph TD
 **Q: Nếu 1-2 món lỗi trong lô 100 món?**  
 A: Nhận 98 món OK, ghi nhận 2 món lỗi. NCC đổi trong 3-5 ngày. Giữ lại 5-10% tiền để đảm bảo.
 
----
 **PHÊ DUYỆT** | Trưởng BP | KT trưởng | Phó HT |
 
 ---

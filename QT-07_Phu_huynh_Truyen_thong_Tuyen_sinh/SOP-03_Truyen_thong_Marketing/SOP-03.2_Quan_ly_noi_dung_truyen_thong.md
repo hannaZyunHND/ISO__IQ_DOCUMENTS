@@ -130,13 +130,14 @@ Tất cả nội dung truyền thông (Facebook, Website, Email, Poster...)
 ║  □ Hấp dẫn? (Có thu hút không?)                                  ║
 ║  □ An toàn? (Không vi phạm pháp luật, Đạo đức...)                ║
 ║                                                                  ║
-║  Nếu OK → Duyệt ✅                                               ║
+║  Nếu OK → Duyệt                                                  ║
 ║  Nếu không → Sửa lại!                                            ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ BƯỚC 5: XUẤT BẢN (Publishing)                                    ║
 ║  • Ai: NV Marketing                                              ║
 ║  • Khi nào: Theo lịch (Content Calendar)                         ║
-║  • Tool: Facebook Creator Studio (Lên lịch tự động)              ║
+║  • Tool:Meta Business Suite (lên lịch/đăng bài/Inbox cơ bản)     ║
+║+ Ads Manager (quảng cáo)”                                        ║
 ║                                                                  ║
 ║  VD:                                                             ║
 ║  • Post 1: Thứ 4, 15/3, 9h                                       ║
@@ -437,7 +438,7 @@ graph TD
     S --> P
     R -->|Có| T[Duyệt! ✅]
     
-    T --> U[Lên lịch Facebook Creator Studio]
+    T --> U[Lên lịch Meta Business Suite (Scheduled)]
     U --> V[Post tự động theo giờ]
     
     V --> W[Theo dõi Engagement]
@@ -465,9 +466,9 @@ graph TD
 |---|---|
 | Tỷ lệ nội dung tuân thủ Brand Guidelines | 100% |
 | Tỷ lệ nội dung được duyệt lần 1 | ≥80% |
-| Facebook Engagement rate | ≥3% |
-| Blog traffic | ≥1000 views/bài |
-| Video views | ≥5000 views/video |
+| Facebook Engagement rate | theo chiến dịch |
+| Blog traffic | theo chiến dịch |
+| Video views | theo chiến dịch |
 
 ## 9. TRÁCH NHIỆM CỤ THỂ
 
@@ -573,7 +574,7 @@ VÍ DỤ ĐÚNG:
 │ BLOG:                                              │
 │ • Views: 1000/bài                                  │
 │ • Time on page: ≥2 phút                            │
-│ • Bounce rate: ≤50%                                │
+│ • Bounce rate: ≤50% (Nguồn đo: GA4)                │
 ├────────────────────────────────────────────────────┤
 │ VIDEO:                                             │
 │ • Views: 5000/video                                │

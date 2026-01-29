@@ -142,7 +142,6 @@ A: Không giới hạn, nhưng quá nhiều lần (>3) chứng tỏ lập NS kh�
 **Q: Có thể điều chỉnh giảm NS không?**  
 A: Có. Khi doanh thu giảm, buộc phải cắt giảm chi.
 
----
 **PHÊ DUYỆT** | KT trưởng | Phó HT | HT | (HĐ nếu lớn) |
 
 ---

@@ -70,15 +70,16 @@ Tất cả chiến dịch marketing (Online + Offline)
 I. THÔNG TIN CHUNG:
 • Tên: "Chiến dịch Tuyển sinh Cao điểm Q2/2025"
 • Thời gian: 01/03 - 30/06/2025 (4 tháng)
-• Ngân sách: 120M
+• Ngân sách: ...
 • Người chịu trách nhiệm: Trưởng BP Truyền thông
 
 II. MỤC TIÊU SMART:
-• Tuyển: 120/150 HS (80% chỉ tiêu năm)
-• Lead: 500 Lead (Conversion 24%)
-• Cost/Lead: ≤240K (120M / 500)
-• Cost/HS: ≤1M (120M / 120)
-• Brand awareness: 40% PH (5km) biết IQ
+• Tuyển: ... 
+• Lead: ...
+• Cost/Lead: ...
+• Cost/HS: ...
+• Brand awareness: ...
+Chỉ tiêu do quản lý phê duyệt theo tháng
 
 III. ĐỐI TƯỢNG:
 • 3 Persona: Bà Nguyễn (40%), Ông Trần (30%), Bà Lê (30%)
@@ -100,9 +101,9 @@ A. PRODUCT (Sản phẩm):
 • Cơ sở hiện đại
 
 B. PRICE (Giá):
-• Học phí: 5M/năm
+• Học phí: Theo bảng học phí được duyệt
 • Ưu đãi: Giảm 10% (Đăng ký sớm)
-• So với thị trường: Rẻ hơn 30%!
+• So với thị trường: Học phí minh bạch, nhiều lựa chọn đóng phí & ưu đãi theo thời điểm
 
 C. PLACE (Phân phối):
 • Đăng ký: Online (Website, App, Facebook) 70%
@@ -114,8 +115,8 @@ D. PROMOTION (Quảng bá):
 • Sự kiện: 20M (17%)
 • PR: 10M (8%)
 
-VI. TIMELINE:
-
+VI. TIMELINE: 
+T-Theo sự kiện/đợt (T-4 tuần, T-3 tuần,...)
 THÁNG 3 (Khởi động):
 • Tuần 1: Launch chiến dịch (Facebook, Google Ads)
 • Tuần 2: PR (5 bài báo)
@@ -340,6 +341,8 @@ MỖI THÁNG:
 
 **BƯỚC 4: Tối ưu (Liên tục)**
 
+chỉ đánh giá khi đạt ngưỡng chi tiêu/hiển thị; nếu cao hơn mục tiêu 20–30% trong 2–3 ngày → giảm ngân sách/đổi creative; nêu rõ tiêu chí CTR/CPM để xác định lỗi hook/target
+
 ```
 TÌNH HUỐNG 1: Cost/Lead cao (350K - Mục tiêu ≤240K!)
 
@@ -400,20 +403,21 @@ B. CONVERSION:
   (Mục tiêu: 24%)
 
 C. CHI PHÍ:
-• Tổng chi: 120M
-• Cost/Lead: 120M/520 = 231K ✅
-  (Mục tiêu: ≤240K)
-• Cost/HS: 120M/125 = 960K ✅
-  (Mục tiêu: ≤1M)
+• Tổng chi: ...
+• Cost/Lead: ...
+  (Mục tiêu: ...)
+• Cost/HS: ...
+  (Mục tiêu: ...)
 
 D. ROI:
-• Thu (125 HS × 5M): 625M
-• Chi: 120M
-• Lãi: 505M
-• ROI = 625M/120M = 5.2 ✅
-  (Mục tiêu: ≥3)
+• Thu (.......): ......
+• Chi: ...
+• Lãi: ...
+• ROI = ... 
+  (Mục tiêu: ..)
 
-III. PHÂN TÍCH KÊNH:
+III. PHÂN TÍCH KÊNH: 
+(Kênh nào hiệu quả hơn thì tập trung kênh đó)
 
 | Kênh | Chi phí | Lead | Cost/Lead | Conversion | HS | Cost/HS |
 |------|---------|------|-----------|------------|----|---------|
