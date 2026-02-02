@@ -152,7 +152,6 @@ graph TD
 **Q: Khởi kiện ra Tòa, có đòi được tiền không?**  
 A: Tùy. Nếu PH có tài sản → Tòa kê biên, bán đấu giá để trả nợ. Nếu không có gì → Khó đòi.
 
----
 **PHÊ DUYỆT** | KT trưởng | Phó HT | HT |
 
 ---

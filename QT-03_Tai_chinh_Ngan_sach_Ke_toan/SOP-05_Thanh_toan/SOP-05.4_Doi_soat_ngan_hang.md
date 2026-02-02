@@ -117,7 +117,6 @@ graph TD
 **Q: Nếu chênh lệch không giải trình được?**  
 A: Báo BGH, kiểm tra toàn bộ chứng từ tháng đó. Nếu cần, mời kiểm toán độc lập.
 
----
 **PHÊ DUYỆT** | Kế toán NH | KT trưởng |
 
 ---
