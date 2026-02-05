@@ -23,7 +23,7 @@
 ### 4.1. Truy cập Thư viện số
 
 **Bước 1: GV/HS truy cập**
-- Link: `https://library.[truong].edu.vn`
+- Link: https://iqlibvue.hndedu.com 
 - Hoặc: Google Drive, Notion...
 
 **Bước 2: Đăng nhập**

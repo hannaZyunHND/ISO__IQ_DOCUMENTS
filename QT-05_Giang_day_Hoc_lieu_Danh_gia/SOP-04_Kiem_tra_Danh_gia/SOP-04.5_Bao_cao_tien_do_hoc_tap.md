@@ -51,7 +51,6 @@ GỢI Ý PHỤ HUYNH:
 **Q: PH không đồng ý với nhận xét?**  
 A: Giải thích dựa trên bằng chứng (Điểm, Quan sát, Hành vi). Lắng nghe góp ý PH.
 
----
 **PHÊ DUYỆT** | GVCN | Phó HT |
 
 ---

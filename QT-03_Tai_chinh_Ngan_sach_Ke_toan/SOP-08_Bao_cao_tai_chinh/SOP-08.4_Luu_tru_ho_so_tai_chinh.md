@@ -134,7 +134,6 @@ graph TD
 **Q: Nếu cháy, mất hồ sơ?**  
 A: Rất nghiêm trọng! Phải báo cơ quan thuế, công an. Nếu có bản điện tử còn khắc phục được.
 
----
 **PHÊ DUYỆT** | KT trưởng | Phó HT |
 
 ---

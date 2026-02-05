@@ -120,7 +120,6 @@ graph TD
 **Q: Nếu phát hiện sai sót sau khi nộp?**  
 A: Khai bổ sung trong 10 năm. Càng sớm càng tốt.
 
----
 **PHÊ DUYỆT** | Kế toán thuế | KT trưởng | HT |
 
 ---

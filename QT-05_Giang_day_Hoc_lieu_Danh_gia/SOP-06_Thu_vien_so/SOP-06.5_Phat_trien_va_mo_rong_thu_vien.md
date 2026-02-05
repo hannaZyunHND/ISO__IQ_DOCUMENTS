@@ -47,7 +47,6 @@ Mở rộng Thư viện, Thêm tính năng mới, Nâng cấp
 **Q: Khi nào chuyển sang Website riêng?**  
 A: Khi có ≥ 2000 TL, ≥ 1000 người dùng, Ngân sách ổn định.
 
----
 **PHÊ DUYỆT** | Ban chỉ đạo | BGH |
 
 ---

@@ -104,7 +104,6 @@ L --> N[Tuần: → Ổ cứng ngoài]
 **Q: Nên xóa HL cũ không?**  
 A: Nếu hoàn toàn lỗi thời → Xóa. Nếu còn giá trị lịch sử → Archive.
 
----
 **PHÊ DUYỆT** | Thủ thư | IT |
 
 ---
