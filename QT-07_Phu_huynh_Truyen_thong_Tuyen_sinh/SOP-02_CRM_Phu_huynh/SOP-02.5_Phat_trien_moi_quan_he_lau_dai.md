@@ -27,9 +27,9 @@ Tất cả PH (Đặc biệt: PH trung thành, VIP)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           VÒNG ĐỜI PHỤ HUYNH (10 NĂM)                           ║
+║           VÒNG ĐỜI PHỤ HUYNH (10 NĂM)                            ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ NĂM 1-2 (MẦM NON): GIAI ĐOẠN LÀM QUEN                           ║
+║ NĂM 1-2 (MẦM NON): GIAI ĐOẠN LÀM QUEN                            ║
 ║  • Mục tiêu: GIỮ CHÂN! (Tránh bỏ học sớm!)                       ║
 ║  • Hành động:                                                    ║
 ║    - Chào đón ấm áp (Welcome kit)                                ║
@@ -39,8 +39,8 @@ Tất cả PH (Đặc biệt: PH trung thành, VIP)
 ║                                                                  ║
 ║  • Chỉ tiêu: Churn ≤10% (Giữ 90% PH!)                            ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ NĂM 3-5 (TIỂU HỌC): GIAI ĐOẠN PHÁT TRIỂN                        ║
-║  • Mục tiêu: TĂNG GIÁ TRỊ! (Upsell/Cross-sell)                  ║
+║ NĂM 3-5 (TIỂU HỌC): GIAI ĐOẠN PHÁT TRIỂN                         ║
+║  • Mục tiêu: TĂNG GIÁ TRỊ! (Upsell/Cross-sell)                   ║
 ║  • Hành động:                                                    ║
 ║    - Giới thiệu dịch vụ thêm (Học thêm, Xe, Ăn...)               ║
 ║    - Khuyến khích anh chị em (Giảm 10% con 2!)                   ║
@@ -49,7 +49,7 @@ Tất cả PH (Đặc biệt: PH trung thành, VIP)
 ║                                                                  ║
 ║  • Chỉ tiêu: 30% PH đăng ký thêm dịch vụ!                        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ NĂM 6-9 (THCS): GIAI ĐOẠN TRUNG THÀNH                           ║
+║ NĂM 6-9 (THCS): GIAI ĐOẠN TRUNG THÀNH                            ║
 ║  • Mục tiêu: BIẾN THÀNH AMBASSADOR!                              ║
 ║  • Hành động:                                                    ║
 ║    - Tri ân (Quà tặng, Sự kiện VIP...)                           ║
@@ -59,7 +59,7 @@ Tất cả PH (Đặc biệt: PH trung thành, VIP)
 ║                                                                  ║
 ║  • Chỉ tiêu: 40% PH giới thiệu ≥1 PH mới!                        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ NĂM 9+ (TỐT NGHIỆP): GIAI ĐOẠN ALUMNI                           ║
+║ NĂM 9+ (TỐT NGHIỆP): GIAI ĐOẠN ALUMNI                            ║
 ║  • Mục tiêu: GIỮ LIÊN LẠC! (Alumni program)                      ║
 ║  • Hành động:                                                    ║
 ║    - Tổ chức Lễ tốt nghiệp ấn tượng                              ║
@@ -76,7 +76,7 @@ Tất cả PH (Đặc biệt: PH trung thành, VIP)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           CHƯƠNG TRÌNH KHÁCH HÀNG THÂN THIẾT                    ║
+║           CHƯƠNG TRÌNH KHÁCH HÀNG THÂN THIẾT                     ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ CẤP BẬC (Dựa trên Điểm tích lũy):                                ║
 ║                                                                  ║
@@ -124,7 +124,7 @@ Tất cả PH (Đặc biệt: PH trung thành, VIP)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           CHƯƠNG TRÌNH GIỚI THIỆU                               ║
+║           CHƯƠNG TRÌNH GIỚI THIỆU                                ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ QUY TẮC:                                                         ║
 ║  1. PH cũ giới thiệu PH mới                                      ║
