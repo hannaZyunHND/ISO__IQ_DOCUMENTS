@@ -8,7 +8,7 @@
 | Tên quy trình | Xây dựng chiến lược tuyển sinh |
 | Quy trình cha | SOP-01: Tuyển sinh |
 | Phiên bản | 1.0 |
-| Tần suất | Hằng năm (Tháng 1-2) |
+| Tần suất | Hằng năm (Tháng 10-11) |
 
 ## 2. MỤC ĐÍCH
 
@@ -326,7 +326,7 @@ CHIẾN LƯỢC:
 ║              ĐỊNH VỊ TRƯỜNG                                      ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ SLOGAN:                                                          ║
-║    "CHẤT LƯỢNG QUỐC TẾ - HỌC PHÍ HỢP LÝ"                        ║
+║    "CHẤT LƯỢNG QUỐC TẾ - HỌC PHÍ HỢP LÝ"                         ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ USP (Unique Selling Proposition):                                ║
 ║  • Chương trình song ngữ (Việt - Anh) chuẩn Cambridge            ║
@@ -385,12 +385,12 @@ D. PROMOTION (Quảng bá):
 
 III. TIMELINE:
 
-Tháng 1-2: Lập chiến lược
-Tháng 3: Khởi động (Sự kiện, Ads...)
-Tháng 4-5: Cao điểm (Tăng Ads!)
-Tháng 6-8: Thu hẹp, Bổ sung
+Tháng 10-11: Lập chiến lược
+Tháng 12-2: Khởi động (Sự kiện, Ads...)
+Tháng 3-4-5-6: Cao điểm (Tăng Ads!)
+Tháng 8-9: Thu hẹp, Bổ sung
 
-IV. KPI:
+IV. KPI:(Ví dụ minh họa)
 
 | KPI | Mục tiêu |
 |-----|----------|

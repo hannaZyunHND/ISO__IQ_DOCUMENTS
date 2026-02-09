@@ -40,18 +40,18 @@ Tất cả học sinh, Tất cả cấp học (Mầm non - Tiểu học - THCS)
 ║             THỜI ĐIỂM ĐIỂM DANH TRONG NGÀY                       ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ 1. ĐIỂM DANH BUỔI SÁNG (Bắt buộc)                                ║
-║    • Thời gian: Tiết 1 (7:30-7:40 TH, 7:00-7:10 THCS)           ║
+║    • Thời gian: Tiết 1 (7:30-7:40 TH, 7:00-7:10 THCS)            ║
 ║    • Người thực hiện: GVCN hoặc GV tiết 1                        ║
 ║    • Nội dung: Điểm danh + Kiểm tra trang phục                   ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ 2. ĐIỂM DANH BUỔI CHIỀU (Bắt buộc)                               ║
-║    • Thời gian: Tiết 1 buổi chiều (13:00-13:10)                 ║
+║    • Thời gian: Tiết 1 buổi chiều (13:00-13:10)                  ║
 ║    • Người thực hiện: GV tiết 1 buổi chiều                       ║
 ║    • Nội dung: Điểm danh                                         ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ 3. ĐIỂM DANH TỪNG TIẾT (Khuyến khích)                            ║
 ║    • GV môn học điểm danh đầu tiết                               ║
-║    • Phát hiện HS vắng giữa chừng (VD: Đi vệ sinh không về)     ║
+║    • Phát hiện HS vắng giữa chừng (VD: Đi vệ sinh không về)      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -86,18 +86,18 @@ Có mặt cả buổi (Sáng hoặc Chiều)
 ```
 Phân loại:
 ┌────────────────────────────────────────────────┐
-│ MUỘN NHẸ (L1): Muộn 1-10 phút                 │
-│  • VD: Đến 7:35 (Quy định 7:30)               │
+│ MUỘN NHẸ (L1): Muộn 1-10 phút                  │
+│  • VD: Đến 7:35 (Quy định 7:30)                │
 │  • Xử lý: Nhắc nhở                             │
 ├────────────────────────────────────────────────┤
-│ MUỘN VỪA (L2): Muộn 11-30 phút                │
+│ MUỘN VỪA (L2): Muộn 11-30 phút                 │
 │  • VD: Đến 7:50                                │
-│  • Xử lý: Ghi Sổ liên lạc, Yêu cầu giải trình │
+│  • Xử lý: Ghi Sổ liên lạc, Yêu cầu giải trình  │
 ├────────────────────────────────────────────────┤
-│ MUỘN NẶNG (L3): Muộn >30 phút                 │
+│ MUỘN NẶNG (L3): Muộn >30 phút                  │
 │  • VD: Đến 8:30                                │
 │  • Xử lý: Phê bình, Gọi PH                     │
-│  • Tính: 1/2 buổi học (Nếu muộn >1 tiết)      │
+│  • Tính: 1/2 buổi học (Nếu muộn >1 tiết)       │
 └────────────────────────────────────────────────┘
 ```
 

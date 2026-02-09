@@ -39,13 +39,13 @@ Tất cả GVCN, GV môn, Tất cả cấp học
 ╠══════════════════════════════════════════════════════════════════╣
 ║ B. ĐIỂM DANH PHẦN MỀM (Digital)                                  ║
 ║    • Công cụ: App/Phần mềm quản lý                               ║
-║    • Ưu điểm: Nhanh, Chính xác, Dễ tra cứu, Tự động báo cáo     ║
+║    • Ưu điểm: Nhanh, Chính xác, Dễ tra cứu, Tự động báo cáo      ║
 ║    • Nhược điểm: Cần Internet, Thiết bị                          ║
 ║    • Phù hợp: Trường thành thị, Hiện đại                         ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ C. ĐIỂM DANH TỰ ĐỘNG (Auto - High-tech)                         ║
-║    • Công cụ: Thẻ RFID, Nhận diện khuôn mặt, QR Code            ║
-║    • Ưu điểm: Rất nhanh (<1 phút), Chính xác 100%               ║
+║ C. ĐIỂM DANH TỰ ĐỘNG (Auto - High-tech)                          ║
+║    • Công cụ: Thẻ RFID, Nhận diện khuôn mặt, QR Code             ║
+║    • Ưu điểm: Rất nhanh (<1 phút), Chính xác 100%                ║
 ║    • Nhược điểm: Đắt, Cần đầu tư                                 ║
 ║    • Phù hợp: Trường quốc tế, Lớn                                ║
 ╚══════════════════════════════════════════════════════════════════╝

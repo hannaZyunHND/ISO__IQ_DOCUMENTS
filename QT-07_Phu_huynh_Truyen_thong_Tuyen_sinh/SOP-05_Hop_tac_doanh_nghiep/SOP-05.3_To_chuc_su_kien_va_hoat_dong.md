@@ -18,6 +18,8 @@ Quy định quy trình lập kế hoạch, tổ chức và đánh giá các sự
 
 ## 3. TRÁCH NHIỆM
 
+Deadline hoàn thành các hạng mục công việc sẽ tùy theo chiến dịch và phân công của Trưởng Bộ Phận 
+
 ### 3.1. Trưởng phòng Quan hệ đối tác
 - Phê duyệt kế hoạch sự kiện
 - Phân bổ ngân sách
@@ -36,7 +38,7 @@ Quy định quy trình lập kế hoạch, tổ chức và đánh giá các sự
 - Điều phối nhân sự
 - Xử lý sự cố
 
-### 3.4. Marketing Team
+### 3.4. Marketing Team 
 - Thiết kế ấn phẩm
 - Truyền thông sự kiện
 - Quay phim, chụp ảnh
@@ -269,7 +271,7 @@ Thời gian | Hoạt động | Người phụ trách | Địa điểm | Ghi chú
 **Timeline tổng thể** (Gantt chart):
 - Content: Mời diễn giả, chuẩn bị presentation
 - Logistics: Đặt venue, thiết bị, F&B
-- Marketing: Thiết kế, đăng ký, truyền thông
+- Marketing: Thiết kế, đăng ký, truyền thông (nếu có mã QR --> tạo form và gắn tag để bàn giao data tuyển sinh cho bộ phận tư vấn)
 - Finance: Tài trợ, thanh toán
 
 **Công cụ**: Google Sheets, Trello, Asana
@@ -281,7 +283,7 @@ Thời gian | Hoạt động | Người phụ trách | Địa điểm | Ghi chú
   - Landing page đăng ký
   - Banner mạng xã hội
   - Email template
-- **Offline**:
+- **Offline**: (Tùy thuộc chiến dịch)
   - Poster A3 (in 50-100 tờ)
   - Standee (2-5 cái)
   - Backdrop (3x2m hoặc 4x3m)
@@ -362,7 +364,7 @@ Thời gian | Hoạt động | Người phụ trách | Địa điểm | Ghi chú
 - [ ] Coffee break, nước uống
 - [ ] Tính số lượng phù hợp (+ 10-15%)
 
-**Vật tư**:
+**Vật tư**: (Kích thước in ấn phụ thuộc chiến dịch)
 - [ ] Bảng tên, standee, backdrop
 - [ ] Name tag, dây đeo
 - [ ] Tài liệu, bút, giấy
@@ -390,7 +392,7 @@ Thời gian | Hoạt động | Người phụ trách | Địa điểm | Ghi chú
 ### 5.3. Giai đoạn triển khai (Ngày sự kiện)
 
 #### 5.3.1. Setup (Trước sự kiện 2-3 giờ)
-**Checklist setup**:
+**Checklist setup**: (Tùy thuộc chiến dịch)
 - [ ] Bố trí venue theo layout
 - [ ] Lắp đặt và test thiết bị
 - [ ] Treo backdrop, standee, poster
@@ -603,7 +605,7 @@ Thời gian | Hoạt động | Người phụ trách | Địa điểm | Ghi chú
 Venue: 5-10 triệu
 Equipment: 3-5 triệu
 F&B: 5-7 triệu (50-70k/người)
-Marketing: 2-3 triệu
+Marketing: 2-3 triệu (Tách biệt giữa In ấn và chạy QC)
 Gifts: 2-3 triệu
 Miscellaneous: 2-3 triệu
 ---
@@ -683,11 +685,11 @@ Tổng: 125-205 triệu VNĐ
 
 ## 8. CÔNG CỤ VÀ TEMPLATE
 
-### 8.1. Công cụ quản lý
+### 8.1. Công cụ quản lý (ví dụ minh họa)
 - **Project management**: Trello, Asana, Monday.com
 - **Communication**: Telegram, Microsoft Teams
 - **Registration**: Google Forms, Eventbrite
-- **Check-in**: Mobile app, QR code
+- **Check-in**: Mobile app, QR code (cần có quy trình rõ ràng)
 - **Survey**: Google Forms, SurveyMonkey
 
 ### 8.2. Template và checklist

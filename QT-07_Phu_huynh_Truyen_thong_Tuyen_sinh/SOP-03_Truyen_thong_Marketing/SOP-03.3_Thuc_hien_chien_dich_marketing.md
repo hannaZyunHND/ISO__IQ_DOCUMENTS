@@ -1,5 +1,6 @@
 # SOP-03.3: THỰC HIỆN CHIẾN DỊCH MARKETING
 
+(Tất cả các số liệu mang tính chất minh họa)
 ## 1. THÔNG TIN QUY TRÌNH
 
 | **Thuộc tính** | **Nội dung** |
@@ -27,9 +28,9 @@ Tất cả chiến dịch marketing (Online + Offline)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           4 LOẠI CHIẾN DỊCH                                     ║
+║           4 LOẠI CHIẾN DỊCH                                      ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ 1. CHIẾN DỊCH TUYỂN SINH (Cao điểm: Tháng 3-6):                 ║
+║ 1. CHIẾN DỊCH TUYỂN SINH (Cao điểm: Tháng 3-6):                  ║
 ║    • Mục tiêu: Tuyển 150 HS                                      ║
 ║    • Ngân sách: 150M/năm (75%)                                   ║
 ║    • Kênh: Facebook Ads, Google Ads, Sự kiện...                  ║
@@ -41,7 +42,7 @@ Tất cả chiến dịch marketing (Online + Offline)
 ║    • Kênh: Facebook organic, PR, Poster...                       ║
 ║    • KPI: Reach 100K người/năm                                   ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ 3. CHIẾN DỊCH SỰ KIỆN (3-4 lần/năm):                            ║
+║ 3. CHIẾN DỊCH SỰ KIỆN (3-4 lần/năm):                             ║
 ║    • Mục tiêu: Tạo trải nghiệm, Thu Lead                         ║
 ║    • Ngân sách: 15M/năm (7.5%)                                   ║
 ║    • Kênh: Sự kiện offline (Open House, Hội diễn...)             ║
@@ -86,7 +87,7 @@ III. ĐỐI TƯỢNG:
 • Khu vực: 5km quanh trường
 • Độ tuổi con: 3-12 tuổi
 
-IV. MESSAGE:
+IV. MESSAGE: (Ví dụ)
 • Slogan: "TUYỂN SINH 2025 - ƯU ĐÃI ĐẶC BIỆT!"
 • 3 thông điệp:
   1. Chất lượng quốc tế - Học phí 5M
@@ -102,7 +103,7 @@ A. PRODUCT (Sản phẩm):
 
 B. PRICE (Giá):
 • Học phí: Theo bảng học phí được duyệt
-• Ưu đãi: Giảm 10% (Đăng ký sớm)
+• Ưu đãi: Giảm 10% (Đăng ký sớm) - Tùy thời điểm
 • So với thị trường: Học phí minh bạch, nhiều lựa chọn đóng phí & ưu đãi theo thời điểm
 
 C. PLACE (Phân phối):
@@ -115,7 +116,7 @@ D. PROMOTION (Quảng bá):
 • Sự kiện: 20M (17%)
 • PR: 10M (8%)
 
-VI. TIMELINE: 
+VI. TIMELINE: (Ví dụ)
 T-Theo sự kiện/đợt (T-4 tuần, T-3 tuần,...)
 THÁNG 3 (Khởi động):
 • Tuần 1: Launch chiến dịch (Facebook, Google Ads)
@@ -174,11 +175,11 @@ THIẾT KẾ 1: POSTER SỰ KIỆN
 ┌─────────────────────────────────────┐
 │  [Logo IQ School]                   │
 │                                     │
-│  🎉 NGÀY HỘI OPEN HOUSE 🎉          │
+│  🎉 NGÀY HỘI OPEN HOUSE 🎉         │
 │                                     │
 │  📅 Thứ 7, 23/03/2025               │
 │  ⏰ 9:00 - 12:00                    │
-│  📍 IQ School, 123 Đường X          │
+│  📍 IQ School, 123 Đường X           │
 │                                     │
 │  ✅ Tham quan trường                │
 │  ✅ Tư vấn 1-1                      │
@@ -344,7 +345,7 @@ MỖI THÁNG:
 chỉ đánh giá khi đạt ngưỡng chi tiêu/hiển thị; nếu cao hơn mục tiêu 20–30% trong 2–3 ngày → giảm ngân sách/đổi creative; nêu rõ tiêu chí CTR/CPM để xác định lỗi hook/target
 
 ```
-TÌNH HUỐNG 1: Cost/Lead cao (350K - Mục tiêu ≤240K!)
+TÌNH HUỐNG MINH HỌA 1: Cost/Lead cao (350K - Mục tiêu ≤240K!) 
 
 PHÂN TÍCH:
 • Ad 1 (Ảnh): Cost/Lead 180K ✅ Tốt!
@@ -361,7 +362,7 @@ KẾT QUẢ:
 
 ───────────────────────────────────────────────────
 
-TÌNH HUỐNG 2: Lead ít (Tuần 1: Chỉ 30 Lead, Mục tiêu 50!)
+TÌNH HUỐNG MINH HỌA 2: Lead ít (Tuần 1: Chỉ 30 Lead, Mục tiêu 50!)
 
 PHÂN TÍCH:
 • Lý do: Ít người thấy Ads (Reach thấp!)

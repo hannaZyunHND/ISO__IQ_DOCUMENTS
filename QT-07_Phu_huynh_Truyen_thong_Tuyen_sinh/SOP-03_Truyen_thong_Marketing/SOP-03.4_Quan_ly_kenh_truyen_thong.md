@@ -1,5 +1,6 @@
 # SOP-03.4: QUẢN LÝ KÊNH TRUYỀN THÔNG
 
+(Tất cả các số liệu mang tính chất minh họa)
 ## 1. THÔNG TIN QUY TRÌNH
 
 | **Thuộc tính** | **Nội dung** |
@@ -27,11 +28,11 @@ Tất cả kênh truyền thông (Online + Offline)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           6 KÊNH ONLINE                                         ║
+║           6 KÊNH ONLINE                                          ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ 1. WEBSITE (iqschool.edu.vn):                                    ║
 ║    • Vai trò: Trung tâm thông tin, Hub chính                     ║
-║    • Mục tiêu: 15K visitors/tháng                                ║
+║    • Mục tiêu: 15K visitors/tháng (theo chiến dịch)              ║
 ║    • Nội dung: Giới thiệu trường, Blog, Tuyển sinh...            ║
 ║    • Cập nhật: 2 blog/tuần, Thông báo khi cần                    ║
 ║    • KPI: Bounce rate ≤50%, Time on site ≥2 phút                 ║
@@ -41,7 +42,7 @@ Tất cả kênh truyền thông (Online + Offline)
 ║    • Followers: 20K (Mục tiêu 2025)                              ║
 ║    • Nội dung: Ảnh/Video HS, Thông báo, Tips...                  ║
 ║    • Đăng: 3-5 post/tuần                                         ║
-║    • KPI: Engagement rate ≥3%, Reach ≥10K/post                   ║
+║    • KPI: Engagement rate, Reach (Được đo 2 kênh Organic & QC    ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ 3. FACEBOOK GROUP (Nhóm PH IQ School):                           ║
 ║    • Vai trò: Cộng đồng PH                                       ║
@@ -62,14 +63,18 @@ Tất cả kênh truyền thông (Online + Offline)
 ║    • Subscribers: 2K (Mục tiêu 2025)                             ║
 ║    • Nội dung: Tour trường, Sự kiện, Hướng dẫn...                ║
 ║    • Đăng: 1-2 video/tháng                                       ║
-║    • KPI: 10K views/video                                        ║
+║    • KPI: Dựa theo chất lượng người xem và tỉ lệ chuyển đổi thành║ 
+║       Lead (Click WS/Nhắn tin)                                   ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ 6. ZALO OA (Zalo Official Account):                              ║
 ║    • Vai trò: Tư vấn trực tiếp, Thông báo nhanh                  ║
 ║    • Followers: 3K                                               ║
 ║    • Nội dung: Thông báo, Trả lời tự động...                     ║
-║    • KPI: Response time ≤5 phút                                  ║
+║    • KPI: Response time (Trong giờ và ngoài giờ) (ghi chú)       ║
 ╚══════════════════════════════════════════════════════════════════╝
+Ghi chú (Respond time):
+Trong giờ: <10 phút
+Ngoài giờ: Tin nhắn tự động kèm nội dung hẹn thời gian trả lời lại khách hàng (Ngay ca làm việc tiếp theo)
 ```
 
 ### 4.2. Kênh Offline (3 kênh)
@@ -300,9 +305,9 @@ QUYỀN LỢI MOD:
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           INSTAGRAM STRATEGY                                    ║
+║           INSTAGRAM STRATEGY                                     ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ ĐỐI TƯỢNG: PH trẻ (28-35 tuổi), Thích ảnh đẹp                   ║
+║ ĐỐI TƯỢNG: PH trẻ (28-35 tuổi), Thích ảnh đẹp                    ║
 ║                                                                  ║
 ║ NỘI DUNG:                                                        ║
 ║  • FEED (3 post/tuần):                                           ║
@@ -447,7 +452,7 @@ graph TD
 ## 10. LƯU Ý QUAN TRỌNG
 
 - ⚠️ **Đồng bộ**: Tất cả kênh cùng Message, Cùng Brand!
-- ✅ **Phản hồi nhanh**: Comment, Inbox → Trả lời ≤2h!
+- ✅ **Phản hồi nhanh**: Comment, Inbox → Trả lời! (Theo ghi chú Respond Time)
 - 🔥 **Crisis**: Xử lý ngay! Không để lan rộng!
 - ✅ **Theo dõi KPI**: Tuần/tháng! Điều chỉnh kịp thời!
 

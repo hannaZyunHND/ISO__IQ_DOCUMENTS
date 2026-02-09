@@ -517,7 +517,7 @@ graph TD
 - ⚠️ **Test A/B**: Chạy 2 phiên bản Ad → Xem phiên bản nào tốt hơn!
 - ✅ **Tối ưu hằng ngày**: Không để chạy tự động! Phải theo dõi!
 - 🔥 **Ưu đãi có hạn**: "Chỉ đến 31/3!" → Tạo Urgency → PH quyết định nhanh!
-- ✅ **Tracking**: Dùng UTM, Pixel → Biết Lead từ kênh nào!
+- ✅ **Tracking**: Dùng UTM, Pixel → Biết Lead từ kênh nào! (Chi tiết của việc đặt UTM, Pixel, nội dung các sheet trong CRM sẽ linh hoạt theo từng chiến dịch)
 
 ## 11. PHỤ LỤC
 

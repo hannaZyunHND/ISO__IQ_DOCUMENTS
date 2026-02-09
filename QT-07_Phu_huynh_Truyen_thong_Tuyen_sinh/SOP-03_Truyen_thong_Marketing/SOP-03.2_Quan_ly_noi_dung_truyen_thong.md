@@ -572,15 +572,13 @@ VÍ DỤ ĐÚNG:
 │ • Tương tác: Reach 500, Engagement 10% (Rất cao!)  │
 ├────────────────────────────────────────────────────┤
 │ BLOG:                                              │
-│ • Views: 1000/bài                                  │
 │ • Time on page: ≥2 phút                            │
-│ • Bounce rate: ≤50% (Nguồn đo: GA4)                │
+│ • Bounce rate: ≤50% (Nguồn đo: GA4-                │
 ├────────────────────────────────────────────────────┤
 │ VIDEO:                                             │
-│ • Views: 5000/video                                │
 │ • Watch time: ≥50% (Xem ≥50% video)                │
-│ • Share: ≥50 lần                                   │
 └────────────────────────────────────────────────────┘
+GA4: Engagement rate/Engaged sessions, Average engagement time 
 ```
 
 ## 12. FAQ

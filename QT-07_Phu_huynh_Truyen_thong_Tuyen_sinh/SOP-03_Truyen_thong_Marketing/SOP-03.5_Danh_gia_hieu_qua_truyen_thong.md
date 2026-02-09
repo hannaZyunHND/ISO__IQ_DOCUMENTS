@@ -1,5 +1,6 @@
 # SOP-03.5: ĐÁNH GIÁ HIỆU QUẢ TRUYỀN THÔNG
 
+(Tất cả các số liệu mang tính chất minh họa)
 ## 1. THÔNG TIN QUY TRÌNH
 
 | **Thuộc tính** | **Nội dung** |
@@ -27,7 +28,7 @@ Tất cả hoạt động truyền thông (Online + Offline)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           5 KPI QUAN TRỌNG NHẤT                                 ║
+║           5 KPI QUAN TRỌNG NHẤT                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ 1. TUYỂN SINH (Mục tiêu chính!):                                 ║
 ║    • Số HS đăng ký: 150 HS/năm                                   ║
@@ -126,7 +127,7 @@ Tất cả hoạt động truyền thông (Online + Offline)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           CÔNG CỤ ĐO LƯỜNG                                      ║
+║           CÔNG CỤ ĐO LƯỜNG                                       ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ 1. GOOGLE ANALYTICS (Website):                                   ║
 ║    • Đo: Traffic, Bounce rate, Time on site...                   ║
@@ -159,7 +160,7 @@ Tất cả hoạt động truyền thông (Online + Offline)
 ║    • Xem: Dashboard CRM                                          ║
 ║    • Tần suất: Real-time!                                        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ 7. GOOGLE DATA STUDIO (Dashboard tổng hợp):                      ║
+║ 7. Looker Studio (Dashboard tổng hợp):                           ║
 ║    • Tích hợp: GA + FB + Google Ads + CRM...                     ║
 ║    • Dashboard 1 màn hình: Xem tất cả KPI!                       ║
 ║    • Tần suất: Luôn mở! (Theo dõi real-time)                     ║
@@ -173,17 +174,17 @@ Tất cả hoạt động truyền thông (Online + Offline)
 │  DASHBOARD MARKETING - REAL-TIME                               │
 │  Cập nhật: 15/03/2025, 10:00                                   │
 ├────────────────────────────────────────────────────────────────┤
-│ TỔNG QUAN (Năm 2025 - 75 ngày):                               │
+│ TỔNG QUAN (Năm 2025 - 75 ngày):                                │
 │ • Ngân sách: 50M/200M (25%)                                    │
-│ • Lead: 125/600 (21%) → Chậm hơn dự kiến! ⚠️                 │
+│ • Lead: 125/600 (21%) → Chậm hơn dự kiến! ⚠️                  │
 │ • HS đăng ký: 30/150 (20%) → On track ✅                      │
-│ • Cost/Lead: 400K (Mục tiêu ≤250K) → Cao! ⚠️                 │
-│ • Cost/HS: 1.67M (Mục tiêu ≤1.5M) → Hơi cao! ⚠️              │
+│ • Cost/Lead: 400K (Mục tiêu ≤250K) → Cao! ⚠️                  │
+│ • Cost/HS: 1.67M (Mục tiêu ≤1.5M) → Hơi cao! ⚠️               │
 │ • ROI dự kiến: 3.0 (On track!) ✅                             │
 ├────────────────────────────────────────────────────────────────┤
 │ WEBSITE (Tháng 3):                                             │
-│ • Traffic: 12K/15K (80%) → Cần tăng! ⚠️                       │
-│ • Bounce rate: 45% ✅ (Mục tiêu ≤50%)                         │
+│ • Traffic: 12K/15K (80%) → Cần tăng! ⚠️                        │
+│ • Bounce rate: 45% ✅ (Mục tiêu ≤50%)                          │
 │ • Time on site: 2m30s ✅                                       │
 │ • Conversion: 3.2% ✅                                          │
 ├────────────────────────────────────────────────────────────────┤
